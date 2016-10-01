@@ -1,0 +1,484 @@
+{
+  "objects" : {
+    "obj-5" : {
+      "model_text" : "obj-13",
+      "content_blended" : true,
+      "shadow_tixel" : ".",
+      "attachable" : true,
+      "border_tixel_br" : "",
+      "rectangular_border" : 4,
+      "frame_anchor_ref" : "obj-6",
+      "border_tixel_ls" : "",
+      "locked" : false,
+      "hidden" : false,
+      "background_type" : 2,
+      "cthrough" : false,
+      "background_enabled" : true,
+      "tag" : 0,
+      "type_id" : 20,
+      "shadow_offset" : "2,2",
+      "frame_size" : "48,18",
+      "subshape_refs" : [
+
+      ],
+      "shadow_enabled" : false,
+      "content_offset" : "0,-4",
+      "border_tixel_rs" : "",
+      "border_tixel_ts" : "",
+      "name" : "Window",
+      "frame_corner" : 1,
+      "content_tixels" : "obj-11",
+      "origin" : "-4,0",
+      "frame_offset" : "0,0",
+      "border_tixel_bs" : "",
+      "shadow_intensity" : 1,
+      "position_refs" : [
+        "obj-6",
+        "obj-7",
+        "obj-8",
+        "obj-9",
+        "obj-10"
+      ],
+      "border_dash_enabled" : {
+        "p" : 0,
+        "u" : 0,
+        "o" : 0
+      },
+      "border_tixel_tl" : "",
+      "border_dash" : false,
+      "shape_type" : 1,
+      "surface_pos_enabled" : true,
+      "border_tixel_bl" : "",
+      "background_tixel" : "",
+      "name_edited" : true,
+      "border_tixels" : "obj-12",
+      "border_tixel_tr" : "",
+      "rectangular_border_enabled" : true
+    },
+    "obj-32" : {
+      "type_id" : 18,
+      "tixels" : {
+        "text_content" : [
+
+        ],
+        "text_points" : [
+
+        ]
+      }
+    },
+    "obj-17" : {
+      "dirset" : 0,
+      "position_flags" : 1,
+      "rect_position" : 16,
+      "type_id" : 12
+    },
+    "obj-3" : {
+      "model_text" : "obj-29",
+      "content_blended" : true,
+      "shadow_tixel" : "",
+      "attachable" : true,
+      "border_tixel_br" : "",
+      "rectangular_border" : 4,
+      "frame_anchor_ref" : "obj-22",
+      "border_tixel_ls" : "",
+      "locked" : false,
+      "hidden" : false,
+      "background_type" : 2,
+      "cthrough" : false,
+      "background_enabled" : true,
+      "tag" : 0,
+      "type_id" : 20,
+      "shadow_offset" : "0,0",
+      "frame_size" : "9,1",
+      "subshape_refs" : [
+
+      ],
+      "shadow_enabled" : false,
+      "content_offset" : "0,-1",
+      "border_tixel_rs" : "",
+      "border_tixel_ts" : "",
+      "name" : "Title",
+      "frame_corner" : 1,
+      "content_tixels" : "obj-27",
+      "origin" : "-2,3",
+      "frame_offset" : "0,0",
+      "border_tixel_bs" : "",
+      "shadow_intensity" : 4,
+      "position_refs" : [
+        "obj-22",
+        "obj-23",
+        "obj-24",
+        "obj-25",
+        "obj-26"
+      ],
+      "border_dash_enabled" : {
+        "p" : 0,
+        "u" : 0,
+        "o" : 0
+      },
+      "border_tixel_tl" : "",
+      "border_dash" : false,
+      "shape_type" : 4,
+      "surface_pos_enabled" : true,
+      "border_tixel_bl" : "",
+      "background_tixel" : "",
+      "name_edited" : false,
+      "border_tixels" : "obj-28",
+      "border_tixel_tr" : "",
+      "rectangular_border_enabled" : false
+    },
+    "obj-31" : {
+      "type_id" : 18,
+      "tixels" : {
+        "text_content" : [
+          "◎",
+          "○",
+          "○"
+        ],
+        "text_points" : [
+          "0,0",
+          "2,0",
+          "4,0"
+        ]
+      }
+    },
+    "obj-16" : {
+      "dirset" : 0,
+      "position_flags" : 1,
+      "rect_position" : 15,
+      "type_id" : 12
+    },
+    "obj-1" : {
+      "type_id" : 13,
+      "shapes" : [
+        "obj-0"
+      ]
+    },
+    "obj-29" : {
+      "position" : 1,
+      "enabled" : true,
+      "type_id" : 27,
+      "text" : "Title",
+      "alignment" : 1,
+      "sweep" : 0,
+      "movement" : 0,
+      "inside_border" : true
+    },
+    "obj-30" : {
+      "type_id" : 11,
+      "dirset" : 0,
+      "point" : "5,9"
+    },
+    "obj-15" : {
+      "dirset" : 0,
+      "position_flags" : 1,
+      "rect_position" : 12,
+      "type_id" : 12
+    },
+    "obj-28" : {
+      "type_id" : 18,
+      "tixels" : {
+        "text_content" : [
+
+        ],
+        "text_points" : [
+
+        ]
+      }
+    },
+    "obj-14" : {
+      "type_id" : 11,
+      "dirset" : 0,
+      "point" : "7,32"
+    },
+    "obj-27" : {
+      "type_id" : 18,
+      "tixels" : {
+        "text_content" : [
+
+        ],
+        "text_points" : [
+
+        ]
+      }
+    },
+    "obj-13" : {
+      "position" : 0,
+      "enabled" : false,
+      "type_id" : 27,
+      "text" : "",
+      "alignment" : 0,
+      "sweep" : 0,
+      "movement" : 0,
+      "inside_border" : true
+    },
+    "obj-8" : {
+      "dirset" : 0,
+      "position_flags" : 1,
+      "rect_position" : 15,
+      "type_id" : 12
+    },
+    "obj-26" : {
+      "dirset" : 0,
+      "position_flags" : 1,
+      "rect_position" : 19,
+      "type_id" : 12
+    },
+    "obj-12" : {
+      "type_id" : 18,
+      "tixels" : {
+        "text_content" : [
+
+        ],
+        "text_points" : [
+
+        ]
+      }
+    },
+    "obj-6" : {
+      "type_id" : 11,
+      "dirset" : 0,
+      "point" : "7,7"
+    },
+    "obj-25" : {
+      "dirset" : 0,
+      "position_flags" : 1,
+      "rect_position" : 16,
+      "type_id" : 12
+    },
+    "obj-4" : {
+      "model_text" : "obj-21",
+      "content_blended" : true,
+      "shadow_tixel" : "*",
+      "attachable" : true,
+      "border_tixel_br" : "",
+      "rectangular_border" : 4,
+      "frame_anchor_ref" : "obj-14",
+      "border_tixel_ls" : "",
+      "locked" : false,
+      "hidden" : false,
+      "background_type" : 3,
+      "cthrough" : false,
+      "background_enabled" : true,
+      "tag" : 0,
+      "type_id" : 20,
+      "shadow_offset" : "2,2",
+      "frame_size" : "48,3",
+      "subshape_refs" : [
+
+      ],
+      "shadow_enabled" : false,
+      "content_offset" : "0,-29",
+      "border_tixel_rs" : "",
+      "border_tixel_ts" : "",
+      "name" : "Top Bar",
+      "frame_corner" : 1,
+      "content_tixels" : "obj-19",
+      "origin" : "-4,-25",
+      "frame_offset" : "0,0",
+      "border_tixel_bs" : "",
+      "shadow_intensity" : 1,
+      "position_refs" : [
+        "obj-14",
+        "obj-15",
+        "obj-16",
+        "obj-17",
+        "obj-18"
+      ],
+      "border_dash_enabled" : {
+        "p" : 0,
+        "u" : 0,
+        "o" : 0
+      },
+      "border_tixel_tl" : "",
+      "border_dash" : false,
+      "shape_type" : 1,
+      "surface_pos_enabled" : true,
+      "border_tixel_bl" : "",
+      "background_tixel" : "░",
+      "name_edited" : true,
+      "border_tixels" : "obj-20",
+      "border_tixel_tr" : "",
+      "rectangular_border_enabled" : true
+    },
+    "obj-11" : {
+      "type_id" : 18,
+      "tixels" : {
+        "text_content" : [
+
+        ],
+        "text_points" : [
+
+        ]
+      }
+    },
+    "obj-24" : {
+      "dirset" : 0,
+      "position_flags" : 1,
+      "rect_position" : 15,
+      "type_id" : 12
+    },
+    "obj-2" : {
+      "model_text" : "obj-33",
+      "content_blended" : true,
+      "shadow_tixel" : "",
+      "attachable" : true,
+      "border_tixel_br" : "",
+      "rectangular_border" : 4,
+      "frame_anchor_ref" : "obj-30",
+      "border_tixel_ls" : "",
+      "locked" : false,
+      "hidden" : false,
+      "background_type" : 2,
+      "cthrough" : false,
+      "background_enabled" : true,
+      "tag" : 0,
+      "type_id" : 20,
+      "shadow_offset" : "0,0",
+      "frame_size" : "7,1",
+      "subshape_refs" : [
+
+      ],
+      "shadow_enabled" : false,
+      "content_offset" : "1,0",
+      "border_tixel_rs" : "",
+      "border_tixel_ts" : "",
+      "name" : "Buttons",
+      "frame_corner" : 1,
+      "content_tixels" : "obj-31",
+      "origin" : "-1,-1",
+      "frame_offset" : "0,0",
+      "border_tixel_bs" : "",
+      "shadow_intensity" : 4,
+      "position_refs" : [
+        "obj-30"
+      ],
+      "border_dash_enabled" : {
+        "p" : 0,
+        "u" : 0,
+        "o" : 0
+      },
+      "border_tixel_tl" : "",
+      "border_dash" : false,
+      "shape_type" : 5,
+      "surface_pos_enabled" : true,
+      "border_tixel_bl" : "",
+      "background_tixel" : "",
+      "name_edited" : true,
+      "border_tixels" : "obj-32",
+      "border_tixel_tr" : "",
+      "rectangular_border_enabled" : false
+    },
+    "obj-10" : {
+      "dirset" : 0,
+      "position_flags" : 1,
+      "rect_position" : 19,
+      "type_id" : 12
+    },
+    "obj-23" : {
+      "dirset" : 0,
+      "position_flags" : 1,
+      "rect_position" : 12,
+      "type_id" : 12
+    },
+    "obj-0" : {
+      "locked" : false,
+      "hidden" : false,
+      "shadow_enabled" : false,
+      "name_edited" : true,
+      "content_blended" : true,
+      "type_id" : 3,
+      "shape_type" : 8,
+      "origin" : "15,26",
+      "tag" : 0,
+      "name" : "Window (Large)",
+      "position_refs" : [
+
+      ],
+      "surface_pos_enabled" : true,
+      "canvas_origin" : true,
+      "subshape_refs" : [
+        "obj-2",
+        "obj-3",
+        "obj-4",
+        "obj-5"
+      ],
+      "shadow_offset" : "0,0",
+      "shadow_intensity" : 4,
+      "subshape_selection" : false,
+      "shadow_tixel" : "",
+      "cthrough" : false,
+      "attachable" : false
+    },
+    "obj-22" : {
+      "type_id" : 11,
+      "dirset" : 0,
+      "point" : "25,5"
+    },
+    "obj-21" : {
+      "position" : 0,
+      "enabled" : false,
+      "type_id" : 27,
+      "text" : "",
+      "alignment" : 0,
+      "sweep" : 0,
+      "movement" : 0,
+      "inside_border" : true
+    },
+    "obj-9" : {
+      "dirset" : 0,
+      "position_flags" : 1,
+      "rect_position" : 16,
+      "type_id" : 12
+    },
+    "obj-19" : {
+      "type_id" : 18,
+      "tixels" : {
+        "text_content" : [
+
+        ],
+        "text_points" : [
+
+        ]
+      }
+    },
+    "obj-20" : {
+      "type_id" : 18,
+      "tixels" : {
+        "text_content" : [
+          "╭",
+          "╮"
+        ],
+        "text_points" : [
+          "4,0",
+          "5,0"
+        ]
+      }
+    },
+    "obj-7" : {
+      "dirset" : 0,
+      "position_flags" : 1,
+      "rect_position" : 12,
+      "type_id" : 12
+    },
+    "obj-33" : {
+      "position" : 0,
+      "enabled" : false,
+      "type_id" : 27,
+      "text" : "",
+      "alignment" : 0,
+      "sweep" : 0,
+      "movement" : 0,
+      "inside_border" : true
+    },
+    "obj-18" : {
+      "dirset" : 0,
+      "position_flags" : 1,
+      "rect_position" : 19,
+      "type_id" : 12
+    }
+  },
+  "header" : {
+    "v" : 2
+  }
+}

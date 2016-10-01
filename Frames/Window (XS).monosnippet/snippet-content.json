@@ -1,0 +1,367 @@
+{
+  "objects" : {
+    "obj-3" : {
+      "model_text" : "obj-20",
+      "content_blended" : true,
+      "shadow_tixel" : "*",
+      "attachable" : true,
+      "border_tixel_br" : "",
+      "rectangular_border" : 4,
+      "frame_anchor_ref" : "obj-13",
+      "border_tixel_ls" : "",
+      "locked" : false,
+      "hidden" : false,
+      "background_type" : 3,
+      "cthrough" : false,
+      "background_enabled" : true,
+      "tag" : 0,
+      "type_id" : 20,
+      "shadow_offset" : "2,2",
+      "frame_size" : "16,3",
+      "subshape_refs" : [
+
+      ],
+      "shadow_enabled" : false,
+      "content_offset" : "0,-29",
+      "border_tixel_rs" : "",
+      "border_tixel_ts" : "",
+      "name" : "Top Bar",
+      "frame_corner" : 1,
+      "content_tixels" : "obj-18",
+      "origin" : "-4,-25",
+      "frame_offset" : "0,0",
+      "border_tixel_bs" : "",
+      "shadow_intensity" : 1,
+      "position_refs" : [
+        "obj-13",
+        "obj-14",
+        "obj-15",
+        "obj-16",
+        "obj-17"
+      ],
+      "border_dash_enabled" : {
+        "p" : 0,
+        "u" : 0,
+        "o" : 0
+      },
+      "border_tixel_tl" : "",
+      "border_dash" : false,
+      "shape_type" : 1,
+      "surface_pos_enabled" : true,
+      "border_tixel_bl" : "",
+      "background_tixel" : "░",
+      "name_edited" : true,
+      "border_tixels" : "obj-19",
+      "border_tixel_tr" : "",
+      "rectangular_border_enabled" : true
+    },
+    "obj-10" : {
+      "type_id" : 18,
+      "tixels" : {
+        "text_content" : [
+
+        ],
+        "text_points" : [
+
+        ]
+      }
+    },
+    "obj-8" : {
+      "dirset" : 0,
+      "position_flags" : 1,
+      "rect_position" : 16,
+      "type_id" : 12
+    },
+    "obj-21" : {
+      "type_id" : 11,
+      "dirset" : 0,
+      "point" : "5,9"
+    },
+    "obj-17" : {
+      "dirset" : 0,
+      "position_flags" : 1,
+      "rect_position" : 19,
+      "type_id" : 12
+    },
+    "obj-12" : {
+      "position" : 0,
+      "enabled" : false,
+      "type_id" : 27,
+      "text" : "",
+      "alignment" : 0,
+      "sweep" : 0,
+      "movement" : 0,
+      "inside_border" : true
+    },
+    "obj-7" : {
+      "dirset" : 0,
+      "position_flags" : 1,
+      "rect_position" : 15,
+      "type_id" : 12
+    },
+    "obj-2" : {
+      "model_text" : "obj-24",
+      "content_blended" : true,
+      "shadow_tixel" : "",
+      "attachable" : true,
+      "border_tixel_br" : "",
+      "rectangular_border" : 4,
+      "frame_anchor_ref" : "obj-21",
+      "border_tixel_ls" : "",
+      "locked" : false,
+      "hidden" : false,
+      "background_type" : 2,
+      "cthrough" : false,
+      "background_enabled" : true,
+      "tag" : 0,
+      "type_id" : 20,
+      "shadow_offset" : "0,0",
+      "frame_size" : "7,1",
+      "subshape_refs" : [
+
+      ],
+      "shadow_enabled" : false,
+      "content_offset" : "1,0",
+      "border_tixel_rs" : "",
+      "border_tixel_ts" : "",
+      "name" : "Buttons",
+      "frame_corner" : 1,
+      "content_tixels" : "obj-22",
+      "origin" : "-1,-1",
+      "frame_offset" : "0,0",
+      "border_tixel_bs" : "",
+      "shadow_intensity" : 4,
+      "position_refs" : [
+        "obj-21"
+      ],
+      "border_dash_enabled" : {
+        "p" : 0,
+        "u" : 0,
+        "o" : 0
+      },
+      "border_tixel_tl" : "",
+      "border_dash" : false,
+      "shape_type" : 5,
+      "surface_pos_enabled" : true,
+      "border_tixel_bl" : "",
+      "background_tixel" : "",
+      "name_edited" : true,
+      "border_tixels" : "obj-23",
+      "border_tixel_tr" : "",
+      "rectangular_border_enabled" : false
+    },
+    "obj-23" : {
+      "type_id" : 18,
+      "tixels" : {
+        "text_content" : [
+
+        ],
+        "text_points" : [
+
+        ]
+      }
+    },
+    "obj-19" : {
+      "type_id" : 18,
+      "tixels" : {
+        "text_content" : [
+          "╭",
+          "╮"
+        ],
+        "text_points" : [
+          "4,0",
+          "5,0"
+        ]
+      }
+    },
+    "obj-14" : {
+      "dirset" : 0,
+      "position_flags" : 1,
+      "rect_position" : 12,
+      "type_id" : 12
+    },
+    "obj-1" : {
+      "type_id" : 13,
+      "shapes" : [
+        "obj-0"
+      ]
+    },
+    "obj-6" : {
+      "dirset" : 0,
+      "position_flags" : 1,
+      "rect_position" : 12,
+      "type_id" : 12
+    },
+    "obj-20" : {
+      "position" : 0,
+      "enabled" : false,
+      "type_id" : 27,
+      "text" : "",
+      "alignment" : 0,
+      "sweep" : 0,
+      "movement" : 0,
+      "inside_border" : true
+    },
+    "obj-16" : {
+      "dirset" : 0,
+      "position_flags" : 1,
+      "rect_position" : 16,
+      "type_id" : 12
+    },
+    "obj-0" : {
+      "locked" : false,
+      "hidden" : false,
+      "shadow_enabled" : false,
+      "name_edited" : true,
+      "content_blended" : true,
+      "type_id" : 3,
+      "shape_type" : 8,
+      "origin" : "104,25",
+      "tag" : 0,
+      "name" : "Window (Extra Small)",
+      "position_refs" : [
+
+      ],
+      "surface_pos_enabled" : true,
+      "canvas_origin" : true,
+      "subshape_refs" : [
+        "obj-2",
+        "obj-3",
+        "obj-4"
+      ],
+      "shadow_offset" : "0,0",
+      "shadow_intensity" : 4,
+      "subshape_selection" : false,
+      "shadow_tixel" : "",
+      "cthrough" : false,
+      "attachable" : false
+    },
+    "obj-5" : {
+      "type_id" : 11,
+      "dirset" : 0,
+      "point" : "7,7"
+    },
+    "obj-11" : {
+      "type_id" : 18,
+      "tixels" : {
+        "text_content" : [
+
+        ],
+        "text_points" : [
+
+        ]
+      }
+    },
+    "obj-22" : {
+      "type_id" : 18,
+      "tixels" : {
+        "text_content" : [
+          "◎",
+          "○",
+          "○"
+        ],
+        "text_points" : [
+          "0,0",
+          "2,0",
+          "4,0"
+        ]
+      }
+    },
+    "obj-18" : {
+      "type_id" : 18,
+      "tixels" : {
+        "text_content" : [
+
+        ],
+        "text_points" : [
+
+        ]
+      }
+    },
+    "obj-13" : {
+      "type_id" : 11,
+      "dirset" : 0,
+      "point" : "7,32"
+    },
+    "obj-4" : {
+      "model_text" : "obj-12",
+      "content_blended" : true,
+      "shadow_tixel" : ".",
+      "attachable" : true,
+      "border_tixel_br" : "",
+      "rectangular_border" : 4,
+      "frame_anchor_ref" : "obj-5",
+      "border_tixel_ls" : "",
+      "locked" : false,
+      "hidden" : false,
+      "background_type" : 2,
+      "cthrough" : false,
+      "background_enabled" : true,
+      "tag" : 0,
+      "type_id" : 20,
+      "shadow_offset" : "2,2",
+      "frame_size" : "16,8",
+      "subshape_refs" : [
+
+      ],
+      "shadow_enabled" : false,
+      "content_offset" : "0,-4",
+      "border_tixel_rs" : "",
+      "border_tixel_ts" : "",
+      "name" : "Window",
+      "frame_corner" : 1,
+      "content_tixels" : "obj-10",
+      "origin" : "-4,0",
+      "frame_offset" : "0,0",
+      "border_tixel_bs" : "",
+      "shadow_intensity" : 1,
+      "position_refs" : [
+        "obj-5",
+        "obj-6",
+        "obj-7",
+        "obj-8",
+        "obj-9"
+      ],
+      "border_dash_enabled" : {
+        "p" : 0,
+        "u" : 0,
+        "o" : 0
+      },
+      "border_tixel_tl" : "",
+      "border_dash" : false,
+      "shape_type" : 1,
+      "surface_pos_enabled" : true,
+      "border_tixel_bl" : "",
+      "background_tixel" : "",
+      "name_edited" : true,
+      "border_tixels" : "obj-11",
+      "border_tixel_tr" : "",
+      "rectangular_border_enabled" : true
+    },
+    "obj-9" : {
+      "dirset" : 0,
+      "position_flags" : 1,
+      "rect_position" : 19,
+      "type_id" : 12
+    },
+    "obj-24" : {
+      "position" : 0,
+      "enabled" : false,
+      "type_id" : 27,
+      "text" : "",
+      "alignment" : 0,
+      "sweep" : 0,
+      "movement" : 0,
+      "inside_border" : true
+    },
+    "obj-15" : {
+      "dirset" : 0,
+      "position_flags" : 1,
+      "rect_position" : 15,
+      "type_id" : 12
+    }
+  },
+  "header" : {
+    "v" : 2
+  }
+}
